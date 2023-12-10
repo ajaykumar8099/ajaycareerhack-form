@@ -1,0 +1,121 @@
+.bg-container {
+  min-height: 100vh;
+  font-family: 'Roboto';
+}
+
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background-color: #819186;
+  height: 10vh;
+  font-family: 'Roboto';
+}
+.nav-head {
+  margin-right: 10px;
+  font-size: 32px;
+}
+
+.nav-name {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-mail {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 26px;
+}
+
+.carrer {
+  font-family: 'Roboto';
+  font-size: 30px;
+}
+.head-img {
+  font-size: 30px;
+  color: #d0d408;
+}
+
+.mail-img {
+  font-size: 30px;
+  color: #781a30;
+}
+
+.image {
+  width: 100%;
+}
+
+.page {
+  padding-top: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: #d7ded9;
+  min-height: 90vh;
+}
+.label {
+  font-size: 29px;
+  font-family: 'Roboto';
+  color: #080808;
+  margin-right: 10px;
+}
+.input {
+  margin-top: 15px;
+  margin-bottom: 7px;
+  padding: 10px;
+  border-radius: 5px;
+  outline: none;
+  cursor: pointer;
+  border: 1px solid gray;
+  font-size: 24px;
+}
+.select-option {
+  margin-top: 20px;
+  margin-bottom: 15px;
+  padding: 15px;
+  font-size: 25px;
+}
+.selected {
+  margin-top: 20px;
+}
+.options {
+  padding: 9px;
+  font-size: 34px;
+}
+.radio {
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+.radio-btn {
+  margin-right: 10px;
+  margin-top: 5px;
+}
+.button {
+  height: 90px;
+  width: 200px;
+  background-image: linear-gradient(#1c0761, #3c05f2);
+  color: aliceblue;
+  font-weight: 500;
+  border: none;
+  border-radius: 12px;
+  padding: 20px;
+  margin-top: 30px;
+  font-size: 28px;
+  padding-bottom: 10px;
+  box-shadow: 10px 4px 4px 10px mintcream;
+}
+.red {
+  color: red;
+}
+.register {
+  font-family: 'Roboto';
+  color: #a605b5;
+}
+
+.label-radio {
+  font-size: 26px;
+}
